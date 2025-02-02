@@ -1,0 +1,784 @@
+{
+    "right": {
+        "french": "quoi",
+        "english": "What"
+    },
+    "wrong": [
+        {
+            "french": "de",
+            "english": "of"
+        },
+        {
+            "french": "je",
+            "english": "I"
+        },
+        {
+            "french": "est",
+            "english": "East"
+        },
+        {
+            "french": "pas",
+            "english": "not"
+        },
+        {
+            "french": "le",
+            "english": "THE"
+        },
+        {
+            "french": "que",
+            "english": "that"
+        },
+        {
+            "french": "la",
+            "english": "there"
+        },
+        {
+            "french": "vous",
+            "english": "YOU"
+        },
+        {
+            "french": "tu",
+            "english": "you"
+        },
+        {
+            "french": "un",
+            "english": "A"
+        },
+        {
+            "french": "c'",
+            "english": "it's"
+        },
+        {
+            "french": "\u00e0",
+            "english": "has"
+        },
+        {
+            "french": "et",
+            "english": "And"
+        },
+        {
+            "french": "il",
+            "english": "he"
+        },
+        {
+            "french": "a",
+            "english": "has"
+        },
+        {
+            "french": "l'",
+            "english": "L'"
+        },
+        {
+            "french": "ne",
+            "english": "born"
+        },
+        {
+            "french": "les",
+            "english": "THE"
+        },
+        {
+            "french": "j'",
+            "english": "I"
+        },
+        {
+            "french": "en",
+            "english": "in"
+        },
+        {
+            "french": "on",
+            "english": "we"
+        },
+        {
+            "french": "\u00e7a",
+            "english": "That"
+        },
+        {
+            "french": "une",
+            "english": "a"
+        },
+        {
+            "french": "d'",
+            "english": "of"
+        },
+        {
+            "french": "ce",
+            "english": "This"
+        },
+        {
+            "french": "qu'",
+            "english": "that"
+        },
+        {
+            "french": "pour",
+            "english": "For"
+        },
+        {
+            "french": "n'",
+            "english": "n'"
+        },
+        {
+            "french": "des",
+            "english": "of the"
+        },
+        {
+            "french": "qui",
+            "english": "Who"
+        },
+        {
+            "french": "mais",
+            "english": "but"
+        },
+        {
+            "french": "dans",
+            "english": "In"
+        },
+        {
+            "french": "nous",
+            "english": "We"
+        },
+        {
+            "french": "elle",
+            "english": "She"
+        },
+        {
+            "french": "me",
+            "english": "me"
+        },
+        {
+            "french": "bien",
+            "english": "GOOD"
+        },
+        {
+            "french": "si",
+            "english": "if"
+        },
+        {
+            "french": "du",
+            "english": "of"
+        },
+        {
+            "french": "y",
+            "english": "y"
+        },
+        {
+            "french": "suis",
+            "english": "am"
+        },
+        {
+            "french": "non",
+            "english": "No"
+        },
+        {
+            "french": "t'",
+            "english": "you"
+        },
+        {
+            "french": "avec",
+            "english": "with"
+        },
+        {
+            "french": "tout",
+            "english": "All"
+        },
+        {
+            "french": "plus",
+            "english": "more"
+        },
+        {
+            "french": "mon",
+            "english": "My"
+        },
+        {
+            "french": "m'",
+            "english": "me"
+        },
+        {
+            "french": "te",
+            "english": "you"
+        },
+        {
+            "french": "au",
+            "english": "At"
+        },
+        {
+            "french": "fait",
+            "english": "do"
+        },
+        {
+            "french": "s'",
+            "english": "if"
+        },
+        {
+            "french": "va",
+            "english": "go"
+        },
+        {
+            "french": "\u00e9tait",
+            "english": "was"
+        },
+        {
+            "french": "as",
+            "english": "ace"
+        },
+        {
+            "french": "faire",
+            "english": "TO DO"
+        },
+        {
+            "french": "ils",
+            "english": "they"
+        },
+        {
+            "french": "sur",
+            "english": "on"
+        },
+        {
+            "french": "quoi",
+            "english": "What"
+        },
+        {
+            "french": "se",
+            "english": "se"
+        },
+        {
+            "french": "comme",
+            "english": "as"
+        },
+        {
+            "french": "sais",
+            "english": "know"
+        },
+        {
+            "french": "\u00eatre",
+            "english": "be"
+        },
+        {
+            "french": "veux",
+            "english": "want"
+        },
+        {
+            "french": "ici",
+            "english": "here"
+        },
+        {
+            "french": "ma",
+            "english": "my"
+        },
+        {
+            "french": "toi",
+            "english": "You"
+        },
+        {
+            "french": "est-ce",
+            "english": "is this"
+        },
+        {
+            "french": "dit",
+            "english": "said"
+        },
+        {
+            "french": "lui",
+            "english": "him"
+        },
+        {
+            "french": "votre",
+            "english": "your"
+        },
+        {
+            "french": "es",
+            "english": "are"
+        },
+        {
+            "french": "pourquoi",
+            "english": "Why"
+        },
+        {
+            "french": "o\u00f9",
+            "english": "Or"
+        },
+        {
+            "french": "l\u00e0",
+            "english": "there"
+        },
+        {
+            "french": "rien",
+            "english": "Nothing"
+        },
+        {
+            "french": "cette",
+            "english": "this"
+        },
+        {
+            "french": "sont",
+            "english": "are"
+        },
+        {
+            "french": "quand",
+            "english": "When"
+        },
+        {
+            "french": "peux",
+            "english": "can"
+        },
+        {
+            "french": "dire",
+            "english": "say"
+        },
+        {
+            "french": "son",
+            "english": "her"
+        },
+        {
+            "french": "avez",
+            "english": "have"
+        },
+        {
+            "french": "vais",
+            "english": "go"
+        },
+        {
+            "french": "alors",
+            "english": "SO"
+        },
+        {
+            "french": "ton",
+            "english": "your"
+        },
+        {
+            "french": "comment",
+            "english": "how"
+        },
+        {
+            "french": "par",
+            "english": "by"
+        },
+        {
+            "french": "ou",
+            "english": "Or"
+        },
+        {
+            "french": "chose",
+            "english": "thing"
+        },
+        {
+            "french": "bon",
+            "english": "Good"
+        },
+        {
+            "french": "ont",
+            "english": "have"
+        },
+        {
+            "french": "merci",
+            "english": "THANKS"
+        },
+        {
+            "french": "juste",
+            "english": "just"
+        },
+        {
+            "french": "tr\u00e8s",
+            "english": "very"
+        },
+        {
+            "french": "jamais",
+            "english": "Never"
+        },
+        {
+            "french": "\u00e9t\u00e9",
+            "english": "summer"
+        },
+        {
+            "french": "aussi",
+            "english": "Also"
+        },
+        {
+            "french": "avoir",
+            "english": "to have"
+        },
+        {
+            "french": "vraiment",
+            "english": "Really"
+        },
+        {
+            "french": "voir",
+            "english": "see"
+        },
+        {
+            "french": "m\u00eame",
+            "english": "even"
+        },
+        {
+            "french": "sa",
+            "english": "its"
+        },
+        {
+            "french": "oh",
+            "english": "Oh"
+        },
+        {
+            "french": "maintenant",
+            "english": "NOW"
+        },
+        {
+            "french": "tous",
+            "english": "all"
+        },
+        {
+            "french": "peut",
+            "english": "can"
+        },
+        {
+            "french": "ces",
+            "english": "these"
+        },
+        {
+            "french": "\u00eates",
+            "english": "are"
+        },
+        {
+            "french": "allez",
+            "english": "Go on"
+        },
+        {
+            "french": "ta",
+            "english": "your"
+        },
+        {
+            "french": "autre",
+            "english": "other"
+        },
+        {
+            "french": "peu",
+            "english": "little"
+        },
+        {
+            "french": "temps",
+            "english": "time"
+        },
+        {
+            "french": "quelque",
+            "english": "some"
+        },
+        {
+            "french": "fais",
+            "english": "do "
+        },
+        {
+            "french": "toujours",
+            "english": "always"
+        },
+        {
+            "french": "encore",
+            "english": "Again"
+        },
+        {
+            "french": "notre",
+            "english": "OUR"
+        },
+        {
+            "french": "mes",
+            "english": "my"
+        },
+        {
+            "french": "besoin",
+            "english": "need"
+        },
+        {
+            "french": "avait",
+            "english": "had"
+        },
+        {
+            "french": "accord",
+            "english": "agreement"
+        },
+        {
+            "french": "faut",
+            "english": "must"
+        },
+        {
+            "french": "dois",
+            "english": "have to"
+        },
+        {
+            "french": "vie",
+            "english": "life"
+        },
+        {
+            "french": "peut-\u00eatre",
+            "english": "maybe"
+        },
+        {
+            "french": "aller",
+            "english": "go"
+        },
+        {
+            "french": "fois",
+            "english": "times"
+        },
+        {
+            "french": "vu",
+            "english": "seen"
+        },
+        {
+            "french": "donc",
+            "english": "SO"
+        },
+        {
+            "french": "sans",
+            "english": "without"
+        },
+        {
+            "french": "monde",
+            "english": "world"
+        },
+        {
+            "french": "\u00e9tais",
+            "english": "was"
+        },
+        {
+            "french": "parce",
+            "english": "because"
+        },
+        {
+            "french": "avant",
+            "english": "Before"
+        },
+        {
+            "french": "s\u00fbr",
+            "english": "on"
+        },
+        {
+            "french": "trop",
+            "english": "too much"
+        },
+        {
+            "french": "quelqu'",
+            "english": "someone"
+        },
+        {
+            "french": "parler",
+            "english": "talk"
+        },
+        {
+            "french": "personne",
+            "english": "person"
+        },
+        {
+            "french": "avais",
+            "english": "had"
+        },
+        {
+            "french": "p\u00e8re",
+            "english": "father"
+        },
+        {
+            "french": "crois",
+            "english": "believe"
+        },
+        {
+            "french": "apr\u00e8s",
+            "english": "After"
+        },
+        {
+            "french": "aux",
+            "english": "to"
+        },
+        {
+            "french": "dieu",
+            "english": "God"
+        },
+        {
+            "french": "ouais",
+            "english": "Yeah"
+        },
+        {
+            "french": "ses",
+            "english": "his"
+        },
+        {
+            "french": "pense",
+            "english": "think"
+        },
+        {
+            "french": "eu",
+            "english": "had"
+        },
+        {
+            "french": "aime",
+            "english": "love"
+        },
+        {
+            "french": "leur",
+            "english": "their"
+        },
+        {
+            "french": "homme",
+            "english": "man"
+        },
+        {
+            "french": "viens",
+            "english": "come"
+        },
+        {
+            "french": "vrai",
+            "english": "TRUE"
+        },
+        {
+            "french": "femme",
+            "english": "women"
+        },
+        {
+            "french": "ok",
+            "english": "ok"
+        },
+        {
+            "french": "veut",
+            "english": "wanna"
+        },
+        {
+            "french": "ans",
+            "english": "years"
+        },
+        {
+            "french": "m.",
+            "english": "mr."
+        },
+        {
+            "french": "mal",
+            "english": "wrong"
+        },
+        {
+            "french": "chez",
+            "english": "at the house of"
+        },
+        {
+            "french": "d\u00e9j\u00e0",
+            "english": "Already"
+        },
+        {
+            "french": "depuis",
+            "english": "Since"
+        },
+        {
+            "french": "beaucoup",
+            "english": "a lot"
+        },
+        {
+            "french": "vos",
+            "english": "your"
+        },
+        {
+            "french": "bonne",
+            "english": "Good"
+        },
+        {
+            "french": "mort",
+            "english": "dead"
+        },
+        {
+            "french": "mieux",
+            "english": "better"
+        },
+        {
+            "french": "vas",
+            "english": "go"
+        },
+        {
+            "french": "m\u00e8re",
+            "english": "mother"
+        },
+        {
+            "french": "sera",
+            "english": "will be"
+        },
+        {
+            "french": "dis",
+            "english": "say"
+        },
+        {
+            "french": "fille",
+            "english": "girl"
+        },
+        {
+            "french": "tes",
+            "english": "your "
+        },
+        {
+            "french": "gens",
+            "english": "people"
+        },
+        {
+            "french": "vois",
+            "english": "see "
+        },
+        {
+            "french": "d\u00e9sol\u00e9",
+            "english": "Sorry"
+        },
+        {
+            "french": "ca",
+            "english": "That"
+        },
+        {
+            "french": "voil\u00e0",
+            "english": "There"
+        },
+        {
+            "french": "avons",
+            "english": "have"
+        },
+        {
+            "french": "petit",
+            "english": "little"
+        },
+        {
+            "french": "maison",
+            "english": "House"
+        },
+        {
+            "french": "soit",
+            "english": "either"
+        },
+        {
+            "french": "cela",
+            "english": "that"
+        },
+        {
+            "french": "autres",
+            "english": "others"
+        },
+        {
+            "french": "toute",
+            "english": "all"
+        },
+        {
+            "french": "soir",
+            "english": "evening"
+        },
+        {
+            "french": "pass\u00e9",
+            "english": "pass"
+        },
+        {
+            "french": "prendre",
+            "english": "take"
+        },
+        {
+            "french": "jour",
+            "english": "day"
+        },
+        {
+            "french": "monsieur",
+            "english": "Sir"
+        },
+        {
+            "french": "nos",
+            "english": "our"
+        },
+        {
+            "french": "savoir",
+            "english": "know"
+        }
+    ]
+}
